@@ -1,0 +1,11 @@
+C:\PersonalWork\SMS\SaaSPlatform.Domain\bin\Debug\net8.0\SaaSPlatform.Domain.deps.json
+C:\PersonalWork\SMS\SaaSPlatform.Domain\bin\Debug\net8.0\SaaSPlatform.Domain.dll
+C:\PersonalWork\SMS\SaaSPlatform.Domain\bin\Debug\net8.0\SaaSPlatform.Domain.pdb
+C:\PersonalWork\SMS\SaaSPlatform.Domain\obj\Debug\net8.0\SaaSPlatform.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\PersonalWork\SMS\SaaSPlatform.Domain\obj\Debug\net8.0\SaaSPlatform.Domain.AssemblyInfoInputs.cache
+C:\PersonalWork\SMS\SaaSPlatform.Domain\obj\Debug\net8.0\SaaSPlatform.Domain.AssemblyInfo.cs
+C:\PersonalWork\SMS\SaaSPlatform.Domain\obj\Debug\net8.0\SaaSPlatform.Domain.csproj.CoreCompileInputs.cache
+C:\PersonalWork\SMS\SaaSPlatform.Domain\obj\Debug\net8.0\SaaSPlatform.Domain.dll
+C:\PersonalWork\SMS\SaaSPlatform.Domain\obj\Debug\net8.0\refint\SaaSPlatform.Domain.dll
+C:\PersonalWork\SMS\SaaSPlatform.Domain\obj\Debug\net8.0\SaaSPlatform.Domain.pdb
+C:\PersonalWork\SMS\SaaSPlatform.Domain\obj\Debug\net8.0\ref\SaaSPlatform.Domain.dll

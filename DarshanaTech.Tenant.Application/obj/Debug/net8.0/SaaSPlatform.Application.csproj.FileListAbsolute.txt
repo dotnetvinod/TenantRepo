@@ -1,0 +1,15 @@
+C:\PersonalWork\SMS\SaaSPlatform.Application\obj\Debug\net8.0\SaaSPlatform.Application.csproj.AssemblyReference.cache
+C:\PersonalWork\SMS\SaaSPlatform.Application\obj\Debug\net8.0\SaaSPlatform.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\PersonalWork\SMS\SaaSPlatform.Application\obj\Debug\net8.0\SaaSPlatform.Application.AssemblyInfoInputs.cache
+C:\PersonalWork\SMS\SaaSPlatform.Application\obj\Debug\net8.0\SaaSPlatform.Application.AssemblyInfo.cs
+C:\PersonalWork\SMS\SaaSPlatform.Application\obj\Debug\net8.0\SaaSPlatform.Application.csproj.CoreCompileInputs.cache
+C:\PersonalWork\SMS\SaaSPlatform.Application\bin\Debug\net8.0\SaaSPlatform.Application.deps.json
+C:\PersonalWork\SMS\SaaSPlatform.Application\bin\Debug\net8.0\SaaSPlatform.Application.dll
+C:\PersonalWork\SMS\SaaSPlatform.Application\bin\Debug\net8.0\SaaSPlatform.Application.pdb
+C:\PersonalWork\SMS\SaaSPlatform.Application\bin\Debug\net8.0\SaaSPlatform.Domain.dll
+C:\PersonalWork\SMS\SaaSPlatform.Application\bin\Debug\net8.0\SaaSPlatform.Domain.pdb
+C:\PersonalWork\SMS\SaaSPlatform.Application\obj\Debug\net8.0\SaaSPlat.12D3AEC6.Up2Date
+C:\PersonalWork\SMS\SaaSPlatform.Application\obj\Debug\net8.0\SaaSPlatform.Application.dll
+C:\PersonalWork\SMS\SaaSPlatform.Application\obj\Debug\net8.0\refint\SaaSPlatform.Application.dll
+C:\PersonalWork\SMS\SaaSPlatform.Application\obj\Debug\net8.0\SaaSPlatform.Application.pdb
+C:\PersonalWork\SMS\SaaSPlatform.Application\obj\Debug\net8.0\ref\SaaSPlatform.Application.dll

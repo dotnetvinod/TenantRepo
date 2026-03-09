@@ -1,0 +1,11 @@
+C:\PersonalWork\SMS\Tenant\publish\DarshanaTech.Tenant.Application.dll
+C:\PersonalWork\SMS\Tenant\publish\DarshanaTech.Tenant.Application.deps.json
+C:\PersonalWork\SMS\Tenant\publish\DarshanaTech.Tenant.Application.pdb
+C:\PersonalWork\SMS\Tenant\publish\FluentValidation.dll
+C:\PersonalWork\SMS\Tenant\publish\FluentValidation.DependencyInjectionExtensions.dll
+C:\PersonalWork\SMS\Tenant\publish\Microsoft.Extensions.Caching.Abstractions.dll
+C:\PersonalWork\SMS\Tenant\publish\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\PersonalWork\SMS\Tenant\publish\Microsoft.Extensions.Logging.Abstractions.dll
+C:\PersonalWork\SMS\Tenant\publish\Microsoft.Extensions.Primitives.dll
+C:\PersonalWork\SMS\Tenant\publish\DarshanaTech.Tenant.Domain.dll
+C:\PersonalWork\SMS\Tenant\publish\DarshanaTech.Tenant.Domain.pdb

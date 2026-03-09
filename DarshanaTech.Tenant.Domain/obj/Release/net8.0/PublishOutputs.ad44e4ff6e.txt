@@ -1,0 +1,3 @@
+C:\PersonalWork\SMS\Tenant\publish\DarshanaTech.Tenant.Domain.dll
+C:\PersonalWork\SMS\Tenant\publish\DarshanaTech.Tenant.Domain.deps.json
+C:\PersonalWork\SMS\Tenant\publish\DarshanaTech.Tenant.Domain.pdb
