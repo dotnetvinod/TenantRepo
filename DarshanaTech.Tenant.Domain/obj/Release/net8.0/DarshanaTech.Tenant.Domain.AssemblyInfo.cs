@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DarshanaTech.Tenant.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+23697063c583fe71d04fc4f3774ba8589c6365e0")]
 [assembly: System.Reflection.AssemblyProductAttribute("DarshanaTech.Tenant.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DarshanaTech.Tenant.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

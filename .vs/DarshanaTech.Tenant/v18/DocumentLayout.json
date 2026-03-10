@@ -1,22 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\PersonalWork\\SMS\\Tenant\\",
+  "WorkspaceRootPath": "C:\\PersonalWork\\SMS\\GIT\\TenantRe\\TenantRepo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{59B1695A-210A-4398-9732-82D5B1E5288F}|DarshanaTech.Tenant.API\\DarshanaTech.Tenant.API.csproj|c:\\personalwork\\sms\\tenant\\darshanatech.tenant.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{59B1695A-210A-4398-9732-82D5B1E5288F}|DarshanaTech.Tenant.API\\DarshanaTech.Tenant.API.csproj|solutionrelative:darshanatech.tenant.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{59B1695A-210A-4398-9732-82D5B1E5288F}|DarshanaTech.Tenant.API\\DarshanaTech.Tenant.API.csproj|c:\\personalwork\\sms\\tenant\\darshanatech.tenant.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{59B1695A-210A-4398-9732-82D5B1E5288F}|DarshanaTech.Tenant.API\\DarshanaTech.Tenant.API.csproj|c:\\personalwork\\sms\\git\\tenantre\\tenantrepo\\darshanatech.tenant.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{59B1695A-210A-4398-9732-82D5B1E5288F}|DarshanaTech.Tenant.API\\DarshanaTech.Tenant.API.csproj|solutionrelative:darshanatech.tenant.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59B1695A-210A-4398-9732-82D5B1E5288F}|DarshanaTech.Tenant.API\\DarshanaTech.Tenant.API.csproj|c:\\personalwork\\sms\\tenant\\darshanatech.tenant.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{59B1695A-210A-4398-9732-82D5B1E5288F}|DarshanaTech.Tenant.API\\DarshanaTech.Tenant.API.csproj|c:\\personalwork\\sms\\git\\tenantre\\tenantrepo\\darshanatech.tenant.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{59B1695A-210A-4398-9732-82D5B1E5288F}|DarshanaTech.Tenant.API\\DarshanaTech.Tenant.API.csproj|solutionrelative:darshanatech.tenant.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59B1695A-210A-4398-9732-82D5B1E5288F}|DarshanaTech.Tenant.API\\DarshanaTech.Tenant.API.csproj|c:\\personalwork\\sms\\git\\tenantre\\tenantrepo\\darshanatech.tenant.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{59B1695A-210A-4398-9732-82D5B1E5288F}|DarshanaTech.Tenant.API\\DarshanaTech.Tenant.API.csproj|solutionrelative:darshanatech.tenant.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59B1695A-210A-4398-9732-82D5B1E5288F}|DarshanaTech.Tenant.API\\DarshanaTech.Tenant.API.csproj|c:\\personalwork\\sms\\tenant\\darshanatech.tenant.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59B1695A-210A-4398-9732-82D5B1E5288F}|DarshanaTech.Tenant.API\\DarshanaTech.Tenant.API.csproj|solutionrelative:darshanatech.tenant.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{59B1695A-210A-4398-9732-82D5B1E5288F}|DarshanaTech.Tenant.API\\DarshanaTech.Tenant.API.csproj|c:\\personalwork\\sms\\git\\tenantre\\tenantrepo\\darshanatech.tenant.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{59B1695A-210A-4398-9732-82D5B1E5288F}|DarshanaTech.Tenant.API\\DarshanaTech.Tenant.API.csproj|solutionrelative:darshanatech.tenant.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29060309-6217-422E-B774-2CCC29804E9D}|DarshanaTech.Tenant.Domain\\DarshanaTech.Tenant.Domain.csproj|c:\\personalwork\\sms\\git\\tenantre\\tenantrepo\\darshanatech.tenant.domain\\enums\\userstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29060309-6217-422E-B774-2CCC29804E9D}|DarshanaTech.Tenant.Domain\\DarshanaTech.Tenant.Domain.csproj|solutionrelative:darshanatech.tenant.domain\\enums\\userstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29060309-6217-422E-B774-2CCC29804E9D}|DarshanaTech.Tenant.Domain\\DarshanaTech.Tenant.Domain.csproj|c:\\personalwork\\sms\\git\\tenantre\\tenantrepo\\darshanatech.tenant.domain\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29060309-6217-422E-B774-2CCC29804E9D}|DarshanaTech.Tenant.Domain\\DarshanaTech.Tenant.Domain.csproj|solutionrelative:darshanatech.tenant.domain\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29060309-6217-422E-B774-2CCC29804E9D}|DarshanaTech.Tenant.Domain\\DarshanaTech.Tenant.Domain.csproj|c:\\personalwork\\sms\\git\\tenantre\\tenantrepo\\darshanatech.tenant.domain\\enums\\tenantstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29060309-6217-422E-B774-2CCC29804E9D}|DarshanaTech.Tenant.Domain\\DarshanaTech.Tenant.Domain.csproj|solutionrelative:darshanatech.tenant.domain\\enums\\tenantstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29060309-6217-422E-B774-2CCC29804E9D}|DarshanaTech.Tenant.Domain\\DarshanaTech.Tenant.Domain.csproj|c:\\personalwork\\sms\\git\\tenantre\\tenantrepo\\darshanatech.tenant.domain\\entities\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29060309-6217-422E-B774-2CCC29804E9D}|DarshanaTech.Tenant.Domain\\DarshanaTech.Tenant.Domain.csproj|solutionrelative:darshanatech.tenant.domain\\entities\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29060309-6217-422E-B774-2CCC29804E9D}|DarshanaTech.Tenant.Domain\\DarshanaTech.Tenant.Domain.csproj|c:\\personalwork\\sms\\git\\tenantre\\tenantrepo\\darshanatech.tenant.domain\\entities\\tenantusage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29060309-6217-422E-B774-2CCC29804E9D}|DarshanaTech.Tenant.Domain\\DarshanaTech.Tenant.Domain.csproj|solutionrelative:darshanatech.tenant.domain\\entities\\tenantusage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29060309-6217-422E-B774-2CCC29804E9D}|DarshanaTech.Tenant.Domain\\DarshanaTech.Tenant.Domain.csproj|c:\\personalwork\\sms\\git\\tenantre\\tenantrepo\\darshanatech.tenant.domain\\entities\\plan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29060309-6217-422E-B774-2CCC29804E9D}|DarshanaTech.Tenant.Domain\\DarshanaTech.Tenant.Domain.csproj|solutionrelative:darshanatech.tenant.domain\\entities\\plan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 49,
+          "SelectedChildIndex": 56,
           "Children": [
             {
               "$type": "Bookmark",
@@ -223,52 +247,132 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\PersonalWork\\SMS\\Tenant\\DarshanaTech.Tenant.API\\Program.cs",
-              "RelativeDocumentMoniker": "DarshanaTech.Tenant.API\\Program.cs",
-              "ToolTip": "C:\\PersonalWork\\SMS\\Tenant\\DarshanaTech.Tenant.API\\Program.cs",
-              "RelativeToolTip": "DarshanaTech.Tenant.API\\Program.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAADkAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-07T15:39:47.292Z",
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\PersonalWork\\SMS\\GIT\\TenantRe\\TenantRepo\\DarshanaTech.Tenant.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "DarshanaTech.Tenant.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\PersonalWork\\SMS\\GIT\\TenantRe\\TenantRepo\\DarshanaTech.Tenant.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "DarshanaTech.Tenant.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-09T15:10:28.199Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "UserStatus.cs",
+              "DocumentMoniker": "C:\\PersonalWork\\SMS\\GIT\\TenantRe\\TenantRepo\\DarshanaTech.Tenant.Domain\\Enums\\UserStatus.cs",
+              "RelativeDocumentMoniker": "DarshanaTech.Tenant.Domain\\Enums\\UserStatus.cs",
+              "ToolTip": "C:\\PersonalWork\\SMS\\GIT\\TenantRe\\TenantRepo\\DarshanaTech.Tenant.Domain\\Enums\\UserStatus.cs",
+              "RelativeToolTip": "DarshanaTech.Tenant.Domain\\Enums\\UserStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T14:48:45.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\PersonalWork\\SMS\\GIT\\TenantRe\\TenantRepo\\DarshanaTech.Tenant.Domain\\Enums\\UserRole.cs",
+              "RelativeDocumentMoniker": "DarshanaTech.Tenant.Domain\\Enums\\UserRole.cs",
+              "ToolTip": "C:\\PersonalWork\\SMS\\GIT\\TenantRe\\TenantRepo\\DarshanaTech.Tenant.Domain\\Enums\\UserRole.cs",
+              "RelativeToolTip": "DarshanaTech.Tenant.Domain\\Enums\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T14:48:44.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TenantStatus.cs",
+              "DocumentMoniker": "C:\\PersonalWork\\SMS\\GIT\\TenantRe\\TenantRepo\\DarshanaTech.Tenant.Domain\\Enums\\TenantStatus.cs",
+              "RelativeDocumentMoniker": "DarshanaTech.Tenant.Domain\\Enums\\TenantStatus.cs",
+              "ToolTip": "C:\\PersonalWork\\SMS\\GIT\\TenantRe\\TenantRepo\\DarshanaTech.Tenant.Domain\\Enums\\TenantStatus.cs",
+              "RelativeToolTip": "DarshanaTech.Tenant.Domain\\Enums\\TenantStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T14:48:42.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuditLog.cs",
+              "DocumentMoniker": "C:\\PersonalWork\\SMS\\GIT\\TenantRe\\TenantRepo\\DarshanaTech.Tenant.Domain\\Entities\\AuditLog.cs",
+              "RelativeDocumentMoniker": "DarshanaTech.Tenant.Domain\\Entities\\AuditLog.cs",
+              "ToolTip": "C:\\PersonalWork\\SMS\\GIT\\TenantRe\\TenantRepo\\DarshanaTech.Tenant.Domain\\Entities\\AuditLog.cs",
+              "RelativeToolTip": "DarshanaTech.Tenant.Domain\\Entities\\AuditLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T14:48:39.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TenantUsage.cs",
+              "DocumentMoniker": "C:\\PersonalWork\\SMS\\GIT\\TenantRe\\TenantRepo\\DarshanaTech.Tenant.Domain\\Entities\\TenantUsage.cs",
+              "RelativeDocumentMoniker": "DarshanaTech.Tenant.Domain\\Entities\\TenantUsage.cs",
+              "ToolTip": "C:\\PersonalWork\\SMS\\GIT\\TenantRe\\TenantRepo\\DarshanaTech.Tenant.Domain\\Entities\\TenantUsage.cs",
+              "RelativeToolTip": "DarshanaTech.Tenant.Domain\\Entities\\TenantUsage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T14:48:37.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Plan.cs",
+              "DocumentMoniker": "C:\\PersonalWork\\SMS\\GIT\\TenantRe\\TenantRepo\\DarshanaTech.Tenant.Domain\\Entities\\Plan.cs",
+              "RelativeDocumentMoniker": "DarshanaTech.Tenant.Domain\\Entities\\Plan.cs",
+              "ToolTip": "C:\\PersonalWork\\SMS\\GIT\\TenantRe\\TenantRepo\\DarshanaTech.Tenant.Domain\\Entities\\Plan.cs",
+              "RelativeToolTip": "DarshanaTech.Tenant.Domain\\Entities\\Plan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T14:48:33.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\PersonalWork\\SMS\\Tenant\\DarshanaTech.Tenant.API\\appsettings.json",
+              "DocumentMoniker": "C:\\PersonalWork\\SMS\\GIT\\TenantRe\\TenantRepo\\DarshanaTech.Tenant.API\\appsettings.json",
               "RelativeDocumentMoniker": "DarshanaTech.Tenant.API\\appsettings.json",
-              "ToolTip": "C:\\PersonalWork\\SMS\\Tenant\\DarshanaTech.Tenant.API\\appsettings.json",
+              "ToolTip": "C:\\PersonalWork\\SMS\\GIT\\TenantRe\\TenantRepo\\DarshanaTech.Tenant.API\\appsettings.json",
               "RelativeToolTip": "DarshanaTech.Tenant.API\\appsettings.json",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB4AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-03-07T12:52:32.765Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\PersonalWork\\SMS\\Tenant\\DarshanaTech.Tenant.API\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "DarshanaTech.Tenant.API\\appsettings.Development.json",
-              "ToolTip": "C:\\PersonalWork\\SMS\\Tenant\\DarshanaTech.Tenant.API\\appsettings.Development.json",
-              "RelativeToolTip": "DarshanaTech.Tenant.API\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-07T12:52:27.04Z"
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\PersonalWork\\SMS\\GIT\\TenantRe\\TenantRepo\\DarshanaTech.Tenant.API\\Program.cs",
+              "RelativeDocumentMoniker": "DarshanaTech.Tenant.API\\Program.cs",
+              "ToolTip": "C:\\PersonalWork\\SMS\\GIT\\TenantRe\\TenantRepo\\DarshanaTech.Tenant.API\\Program.cs",
+              "RelativeToolTip": "DarshanaTech.Tenant.API\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAIAwwDUAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T15:39:47.292Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\PersonalWork\\SMS\\Tenant\\DarshanaTech.Tenant.API\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "DarshanaTech.Tenant.API\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\PersonalWork\\SMS\\Tenant\\DarshanaTech.Tenant.API\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "DarshanaTech.Tenant.API\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-07T12:35:14.955Z"
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\PersonalWork\\SMS\\GIT\\TenantRe\\TenantRepo\\DarshanaTech.Tenant.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "DarshanaTech.Tenant.API\\appsettings.Development.json",
+              "ToolTip": "C:\\PersonalWork\\SMS\\GIT\\TenantRe\\TenantRepo\\DarshanaTech.Tenant.API\\appsettings.Development.json",
+              "RelativeToolTip": "DarshanaTech.Tenant.API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-07T12:52:27.04Z",
+              "EditorCaption": ""
             }
           ]
         }

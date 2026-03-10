@@ -4,7 +4,6 @@ using Microsoft.EntityFrameworkCore;
 using DarshanaTech.Tenant.Infrastructure.Data;
 using Microsoft.IdentityModel.Tokens;
 using DarshanaTech.Tenant.API.Middlewares;
-using DarshanaTech.Tenant.API.Services;
 using DarshanaTech.Tenant.Application;
 using DarshanaTech.Tenant.Infrastructure;
 using Serilog;
@@ -50,13 +49,6 @@ builder.Services.AddSwaggerGen(c =>
 // Register application and infrastructure (DI, DbContext, repositories, services)
 builder.Services.AddApplication();
 builder.Services.AddInfrastructure(builder.Configuration);
-
-// HTTP client for Auth Web API (shared authentication service)
-builder.Services.AddHttpClient<IAuthApiClient, AuthApiClient>(client =>
-{
-    var baseUrl = builder.Configuration["AuthApi:BaseUrl"] ?? "http://localhost:5142";
-    client.BaseAddress = new Uri(baseUrl.TrimEnd('/') + "/");
-});
 
 // JWT Bearer authentication for SuperAdmin endpoints
 builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)

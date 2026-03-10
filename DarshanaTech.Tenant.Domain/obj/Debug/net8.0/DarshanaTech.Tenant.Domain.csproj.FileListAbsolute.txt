@@ -20,3 +20,15 @@ C:\PersonalWork\SMS\Tenant\DarshanaTech.Tenant.Domain\obj\Debug\net8.0\DarshanaT
 C:\PersonalWork\SMS\Tenant\DarshanaTech.Tenant.Domain\obj\Debug\net8.0\refint\DarshanaTech.Tenant.Domain.dll
 C:\PersonalWork\SMS\Tenant\DarshanaTech.Tenant.Domain\obj\Debug\net8.0\DarshanaTech.Tenant.Domain.pdb
 C:\PersonalWork\SMS\Tenant\DarshanaTech.Tenant.Domain\obj\Debug\net8.0\ref\DarshanaTech.Tenant.Domain.dll
+C:\PersonalWork\SMS\GIT\TenantRe\TenantRepo\DarshanaTech.Tenant.Domain\bin\Debug\net8.0\DarshanaTech.Tenant.Domain.deps.json
+C:\PersonalWork\SMS\GIT\TenantRe\TenantRepo\DarshanaTech.Tenant.Domain\bin\Debug\net8.0\DarshanaTech.Tenant.Domain.dll
+C:\PersonalWork\SMS\GIT\TenantRe\TenantRepo\DarshanaTech.Tenant.Domain\bin\Debug\net8.0\DarshanaTech.Tenant.Domain.pdb
+C:\PersonalWork\SMS\GIT\TenantRe\TenantRepo\DarshanaTech.Tenant.Domain\obj\Debug\net8.0\DarshanaTech.Tenant.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\PersonalWork\SMS\GIT\TenantRe\TenantRepo\DarshanaTech.Tenant.Domain\obj\Debug\net8.0\DarshanaTech.Tenant.Domain.AssemblyInfoInputs.cache
+C:\PersonalWork\SMS\GIT\TenantRe\TenantRepo\DarshanaTech.Tenant.Domain\obj\Debug\net8.0\DarshanaTech.Tenant.Domain.AssemblyInfo.cs
+C:\PersonalWork\SMS\GIT\TenantRe\TenantRepo\DarshanaTech.Tenant.Domain\obj\Debug\net8.0\DarshanaTech.Tenant.Domain.csproj.CoreCompileInputs.cache
+C:\PersonalWork\SMS\GIT\TenantRe\TenantRepo\DarshanaTech.Tenant.Domain\obj\Debug\net8.0\DarshanaTech.Tenant.Domain.sourcelink.json
+C:\PersonalWork\SMS\GIT\TenantRe\TenantRepo\DarshanaTech.Tenant.Domain\obj\Debug\net8.0\DarshanaTech.Tenant.Domain.dll
+C:\PersonalWork\SMS\GIT\TenantRe\TenantRepo\DarshanaTech.Tenant.Domain\obj\Debug\net8.0\refint\DarshanaTech.Tenant.Domain.dll
+C:\PersonalWork\SMS\GIT\TenantRe\TenantRepo\DarshanaTech.Tenant.Domain\obj\Debug\net8.0\DarshanaTech.Tenant.Domain.pdb
+C:\PersonalWork\SMS\GIT\TenantRe\TenantRepo\DarshanaTech.Tenant.Domain\obj\Debug\net8.0\ref\DarshanaTech.Tenant.Domain.dll

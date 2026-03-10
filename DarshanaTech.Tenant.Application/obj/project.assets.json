@@ -344,11 +344,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\PersonalWork\\SMS\\Tenant\\DarshanaTech.Tenant.Application\\DarshanaTech.Tenant.Application.csproj",
+      "projectUniqueName": "C:\\PersonalWork\\SMS\\GIT\\TenantRe\\TenantRepo\\DarshanaTech.Tenant.Application\\DarshanaTech.Tenant.Application.csproj",
       "projectName": "DarshanaTech.Tenant.Application",
-      "projectPath": "C:\\PersonalWork\\SMS\\Tenant\\DarshanaTech.Tenant.Application\\DarshanaTech.Tenant.Application.csproj",
+      "projectPath": "C:\\PersonalWork\\SMS\\GIT\\TenantRe\\TenantRepo\\DarshanaTech.Tenant.Application\\DarshanaTech.Tenant.Application.csproj",
       "packagesPath": "C:\\Users\\V946616\\.nuget\\packages\\",
-      "outputPath": "C:\\PersonalWork\\SMS\\Tenant\\DarshanaTech.Tenant.Application\\obj\\",
+      "outputPath": "C:\\PersonalWork\\SMS\\GIT\\TenantRe\\TenantRepo\\DarshanaTech.Tenant.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -371,8 +371,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\PersonalWork\\SMS\\Tenant\\DarshanaTech.Tenant.Domain\\DarshanaTech.Tenant.Domain.csproj": {
-              "projectPath": "C:\\PersonalWork\\SMS\\Tenant\\DarshanaTech.Tenant.Domain\\DarshanaTech.Tenant.Domain.csproj"
+            "C:\\PersonalWork\\SMS\\GIT\\TenantRe\\TenantRepo\\DarshanaTech.Tenant.Domain\\DarshanaTech.Tenant.Domain.csproj": {
+              "projectPath": "C:\\PersonalWork\\SMS\\GIT\\TenantRe\\TenantRepo\\DarshanaTech.Tenant.Domain\\DarshanaTech.Tenant.Domain.csproj"
             }
           }
         }

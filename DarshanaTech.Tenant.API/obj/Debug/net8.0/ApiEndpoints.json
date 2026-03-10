@@ -1,21 +1,5 @@
 [
   {
-    "ContainingType": "DarshanaTech.Tenant.API.Controllers.AuthController",
-    "Method": "Login",
-    "RelativePath": "api/auth/login",
-    "HttpMethod": "POST",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "request",
-        "Type": "DarshanaTech.Tenant.API.Controllers.LoginRequest",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
     "ContainingType": "DarshanaTech.Tenant.API.Controllers.PlansController",
     "Method": "GetAll",
     "RelativePath": "api/superadmin/plans",
@@ -23,6 +7,22 @@
     "IsController": true,
     "Order": 0,
     "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DarshanaTech.Tenant.API.Controllers.PlansController",
+    "Method": "Add",
+    "RelativePath": "api/superadmin/plans",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "DarshanaTech.Tenant.Application.DTOs.AddPlanRequest",
+        "IsRequired": true
+      }
+    ],
     "ReturnTypes": []
   },
   {

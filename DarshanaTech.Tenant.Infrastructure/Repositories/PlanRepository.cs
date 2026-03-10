@@ -16,4 +16,10 @@ public class PlanRepository : IPlanRepository
 
     public async Task<IEnumerable<Plan>> GetAllAsync(CancellationToken cancellationToken = default) =>
         await _context.Plans.OrderBy(p => p.PlanId).ToListAsync(cancellationToken);
+
+    public async Task<Plan> AddAsync(Plan plan, CancellationToken cancellationToken = default)
+    {
+        await _context.Plans.AddAsync(plan, cancellationToken);
+        return plan;
+    }
 }
